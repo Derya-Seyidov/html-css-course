@@ -1,0 +1,18 @@
+/* Ordered list style */
+ol {
+    color: darkblue;
+    background-color: #e6f0ff;
+    padding: 10px;
+}
+
+/* Unordered list style */
+ul {
+    color: darkgreen;
+    background-color: #e6ffe6;
+    padding: 10px;
+}
+
+/* Text shadow example */
+h1 {
+    text-shadow: 2px 2px 5px gray;
+}
